@@ -126,7 +126,7 @@ experience:
     start: 2023-04-15
     end: 2023-05-31
     summary: |
-      Worked on Axion Cosmology. Participated in ....
+      Worked on Axion Cosmology.
   - role: YITP Visiting Researcher
     org: Center for Gravitational Physics and Quantum Information, Yukawa Institute for Theoretical Physics (YITP), Kyoto University, Kyoto, JAPAN
     start: 2022-12-25
@@ -138,19 +138,26 @@ experience:
     start: 2019-04-21 
     end: 2022-04-20 
     summary: |
-      Worked on ....
+      Worked on Gravitational Waves and Multi-field inflation.
   - role: Post Doctoral Researcher 
     org: Visitor at School of Astronomy, supported by Iran Science Elites Federation (ISEF), Tehran, IRAN
     start: 2018-09-23 
     end: 2019-04-20
     summary: |
-      Worked on ...
+      Worked on Stochastic dynamics of gauge fields during inflationary era.
   - role: Full Time Researcher
     org: Visitor at School of Astronomy, in collaboration with Iran's National Elites Foundation (INEF), Tehran, IRAN 
     start: 2018-06-26
     end: 2018-09-23
     summary: |
-      Worked on
+      Worked on Stochastic Inflation.
+
+activities:
+  - role: Co-founder & Content Creator
+    org: Homaparan Danesh (Scientific-Educational Group)
+    start: 2024-01-01
+    summary: |
+      Co-founded a scientific-educational group focused on physics outreach via multimedia production, book localization, and curriculum development for diverse learner levels.
 
 skills:
   - name: Technical Skills
@@ -160,7 +167,7 @@ skills:
       - label: Machine Learning
         level: 5
       - label: Mathematica
-        level: 4
+        level: 5
   - name: Research & Communication
     items:
       - label: Academic Writing
@@ -177,6 +184,17 @@ languages:
   - name: English
     level: 4
     label: Fluent
+  - name: French
+    level: 1
+    label: Elementary
+  - name: Arabic
+    level: 2
+    label: Beginner
+    # سطح ۱ = مبتدی (Elementary)
+    # سطح ۲ = متوسط پایین (Beginner/Intermediate Low)
+    # سطح ۳ = متوسط (Intermediate)
+    # سطح ۴ = پیشرفته (Advanced)
+    # سطح ۵ = مسلط (Native/Fluent)
 
 awards:
   - title: Best Paper Award
