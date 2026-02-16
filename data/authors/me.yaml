@@ -155,9 +155,13 @@ experience:
 activities:
   - role: Co-founder & Content Creator
     org: Homaparan Danesh (Scientific-Educational Group)
-    start: 2024-01-01
+    start: 2024-01-01 # ???? right after Zanjan's Conference!
     summary: |
       Co-founded a scientific-educational group focused on physics outreach via multimedia production, book localization, and curriculum development for diverse learner levels.
+    button:
+      text: View activities
+      url: https://homaparan.github.io/
+      icon: hero/arrow-down-tray
 
 skills:
   - name: Technical Skills
