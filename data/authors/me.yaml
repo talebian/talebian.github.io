@@ -56,8 +56,8 @@ education:
     start: 2012-09-22 # 1391/07/01
     end: 2018-06-30 # 1397/04/09
     summary: |
-      Thesis on "Cosmic Microwave Background; Anisotropies and Anomalies". Published 2 papers in JCAP.
-      # link to the UT page: https://science.ut.ac.ir/fa/article/90045322
+      Thesis on "Cosmic Microwave Background; Anisotropies and Anomalies". Published 2 papers in JCAP. 
+    #  link to the UT page: https://science.ut.ac.ir/fa/article/90045322
     button:
       text: Download dissertation
       url: /resume.pdf
@@ -76,14 +76,22 @@ education:
 experience:
   - role: Full Time Researcher
     org: School of Astronomy, Institute for Research in Fundamental Sciences, Tehran, IRAN
-    start: 2024-01-01
+    start: 2024-05-21 # 1403/03/01
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
+      Leading research on Promordial Cosmology. Contributed to ....
     button:
       text: View portfolio
       url: /
       icon: hero/arrow-down-tray
-  - role: AI Research Intern
+  - role: Head of the Cosmic Magnetism Group
+    org: School of Astronomy, Institute for Research in Fundamental Sciences, Tehran, IRAN
+    start: 2024-05-21 # 1403/03/01
+    summary: |
+      Leading research on Magnetic Fields in the sky. Contributed to ....
+    button:
+      text: CM group
+      url: https://ipm-cmg.github.io/
+  - role: ...
     org: OpenAI
     start: 2019-06-01
     end: 2019-12-31
