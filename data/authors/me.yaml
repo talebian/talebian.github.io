@@ -78,7 +78,7 @@ experience:
     org: School of Astronomy, Institute for Research in Fundamental Sciences, Tehran, IRAN
     start: 2024-05-21 # 1403/03/01
     summary: |
-      Leading research on Promordial Cosmology. Contributed to ....
+      Leading research on Promordial Magnetic Fields, Primordial Gravitational Waves,... . Contributed to ....
     button:
       text: View portfolio
       url: /
@@ -92,65 +92,65 @@ experience:
       # text: CM group
       # url: https://ipm-cmg.github.io/
   - role: Nordita Visiting Researcher
-    org: The Nordic Institute for Theoretical Physics (Nordita), Stockholm, Sweden
+    org: The Nordic Institute for Theoretical Physics (Nordita), Stockholm, SWEDEN
     start: 2026-01-10
     end: 2026-02-07
     summary: |
       Worked on MHD simulation. Participated in the Nordita winter school 2026 ....
   - role: CERN Visiting Researcher
-    # org: The Nordic Institute for Theoretical Physics (Nordita), Stockholm, Sweden
-    start: # 2026-01-10
-    end: #2026-02-07
+    org: The European Organization for Nuclear Research (CERN), Geneva, SWITZERLAND
+    start: 2025-10-15
+    end: 2025-11-15
     summary: |
-      Worked on MHD simulation. Participated in the Nordita winter school 2026 ....
+      Worked on MHD simulation. Participated in the Pencil Code school 2025 ....
   - role: Visiting Faculty Member
     org: Department of Physics, Shahid Beheshti University, Tehran, IRAN
-    start: # 2026-01-10
-    end: # 2026-02-07
+    start: 2024-09-22
+    end: 2025-03-19
     summary: |
       Taught course: Advanced Cosmology II.
   - role: Bernoulli Visiting Researcher
-    # org: The Nordic Institute for Theoretical Physics (Nordita), Stockholm, Sweden
-    start: # 2026-01-10
-    end: #2026-02-07
+    org: The Bernoulli Center for Fundamental Studies, EPFL University, Lausanne, SWITZERLAND
+    start: 2024-04-29
+    end: 2024-06-07
     summary: |
-      Worked on MHD simulation. Participated in the Nordita winter school 2026 ....
+      Worked on Promordial Magnetic Filed. Participated in [a 6 week program at the Bernoulli Center](https://indico.cern.ch/event/1334236/overview)....
   - role: Senior Postdoctoral Research Associate
-    # org: The Nordic Institute for Theoretical Physics (Nordita), Stockholm, Sweden
-    start: # 2026-01-10
-    end: #2026-02-07
+    org: School of Astronomy, Institute for Research in Fundamental Sciences, Tehran, IRAN
+    start: 2022-04-21 
+    end: 2024-04-20 
     summary: |
-      Worked on MHD simulation. Participated in the Nordita winter school 2026 ....
+      Worked on Stochastic electromagnetic fields during inflation. Primordial gravitational waves, Primordial Black Holes, ...
   - role: ICTP Visiting Researcher
-    # org: The Nordic Institute for Theoretical Physics (Nordita), Stockholm, Sweden
-    start: # 2026-01-10
-    end: #2026-02-07
+    org: The Abdus Salam International Centre for Theoretical Physics (ICTP), Trieste, ITALY
+    start: 2023-04-15
+    end: 2023-05-31
     summary: |
-      Worked on MHD simulation. Participated in the Nordita winter school 2026 ....
+      Worked on Axion Cosmology. Participated in ....
   - role: YITP Visiting Researcher
-    # org: The Nordic Institute for Theoretical Physics (Nordita), Stockholm, Sweden
-    start: # 2026-01-10
-    end: #2026-02-07
+    org: Center for Gravitational Physics and Quantum Information, Yukawa Institute for Theoretical Physics (YITP), Kyoto University, Kyoto, JAPAN
+    start: 2022-12-25
+    end: 2023-02-28
     summary: |
-      Worked on MHD simulation. Participated in the Nordita winter school 2026 ....
+      Worked on Stochastic formalism for axion like particles (ALPs).
   - role: Postdoctoral Research Associate
-    # org: The Nordic Institute for Theoretical Physics (Nordita), Stockholm, Sweden
-    start: # 2026-01-10
-    end: #2026-02-07
+    org: School of Astronomy, Institute for Research in Fundamental Sciences, Tehran, IRAN  
+    start: 2019-04-21 
+    end: 2022-04-20 
     summary: |
-      Worked on MHD simulation. Participated in the Nordita winter school 2026 ....
+      Worked on ....
   - role: Post Doctoral Researcher 
-    # org: The Nordic Institute for Theoretical Physics (Nordita), Stockholm, Sweden
-    start: # 2026-01-10
-    end: #2026-02-07
+    org: Visitor at School of Astronomy, supported by Iran Science Elites Federation (ISEF), Tehran, IRAN
+    start: 2018-09-23 
+    end: 2019-04-20
     summary: |
-      Worked on MHD simulation. Participated in the Nordita winter school 2026 ....
+      Worked on ...
   - role: Full Time Researcher
-    # org: The Nordic Institute for Theoretical Physics (Nordita), Stockholm, Sweden
-    start: # 2026-01-10
-    end: #2026-02-07
+    org: Visitor at School of Astronomy, in collaboration with Iran's National Elites Foundation (INEF), Tehran, IRAN 
+    start: 2018-06-26
+    end: 2018-09-23
     summary: |
-      Worked on MHD simulation. Participated in the Nordita winter school 2026 ....
+      Worked on
 
 skills:
   - name: Technical Skills
@@ -159,14 +159,14 @@ skills:
         level: 5
       - label: Machine Learning
         level: 5
-      - label: Cloud Computing
+      - label: Mathematica
         level: 4
   - name: Research & Communication
     items:
       - label: Academic Writing
         level: 5
       - label: Conference Presentations
-        level: 4
+        level: 5
       - label: Grant Proposals
         level: 4
 
