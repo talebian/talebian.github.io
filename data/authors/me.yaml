@@ -30,8 +30,8 @@ links:
   - icon: at-symbol
     url: mailto:talebian@ipm.ir
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
+  # - icon: brands/x
+    # url: https://x.com/example
   - icon: brands/github
     url: https://github.com/talebian
   - icon: brands/linkedin
@@ -43,34 +43,40 @@ links:
 
 interests:
   - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  # - Computer Vision
+  - Cosmology
+  - Hiking
+  - Human Flourishing
+  # - Reinforcement Learning
+  # - AI Ethics
 
 education:
   - degree: PhD Gravity and Cosmology
     institution: University of Tehran
-    start: 2015-09-01
-    end: 2019-06-30
+    start: 2012-09-22 # 1391/07/01
+    end: 2018-06-30 # 1397/04/09
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
+      Thesis on "Cosmic Microwave Background; Anisotropies and Anomalies". Published 2 papers in JCAP.
+      # link to the UT page: https://science.ut.ac.ir/fa/article/90045322
     button:
       text: Download dissertation
       url: /resume.pdf
       icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+  - degree: MS Physics
+    institution: Sharif University of Technology
+    start: 2009-09-23 # 1388/07/01
+    end: 2012-01-18 # 1390/10/28
+    summary: |
+      Thesis on "Origin of Quantum Potential".
+  - degree: BS Physics
+    institution: Yazd University
+    start: 2005-09-23 # 1384/07/01
+    end: 2009-07-06 # 1388/04/15
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Full Time Researcher
+    org: School of Astronomy, Institute for Research in Fundamental Sciences, Tehran, IRAN
+    start: 2024-01-01
     summary: |
       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
     button:
