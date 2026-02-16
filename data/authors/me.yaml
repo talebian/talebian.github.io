@@ -87,16 +87,70 @@ experience:
     org: School of Astronomy, Institute for Research in Fundamental Sciences, Tehran, IRAN
     start: 2024-05-21 # 1403/03/01
     summary: |
-      Leading research on Magnetic Fields in the sky. Contributed to ....
-    button:
-      text: CM group
-      url: https://ipm-cmg.github.io/
-  - role: ...
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+      Leading research on Magnetic Fields in the sky. For more detail see [here](https://ipm-cmg.github.io/)
+    # button:
+      # text: CM group
+      # url: https://ipm-cmg.github.io/
+  - role: Nordita Visiting Researcher
+    org: The Nordic Institute for Theoretical Physics (Nordita), Stockholm, Sweden
+    start: 2026-01-10
+    end: 2026-02-07
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Worked on MHD simulation. Participated in the Nordita winter school 2026 ....
+  - role: CERN Visiting Researcher
+    # org: The Nordic Institute for Theoretical Physics (Nordita), Stockholm, Sweden
+    start: # 2026-01-10
+    end: #2026-02-07
+    summary: |
+      Worked on MHD simulation. Participated in the Nordita winter school 2026 ....
+  - role: Visiting Faculty Member
+    org: Department of Physics, Shahid Beheshti University, Tehran, IRAN
+    start: # 2026-01-10
+    end: # 2026-02-07
+    summary: |
+      Taught course: Advanced Cosmology II.
+  - role: Bernoulli Visiting Researcher
+    # org: The Nordic Institute for Theoretical Physics (Nordita), Stockholm, Sweden
+    start: # 2026-01-10
+    end: #2026-02-07
+    summary: |
+      Worked on MHD simulation. Participated in the Nordita winter school 2026 ....
+  - role: Senior Postdoctoral Research Associate
+    # org: The Nordic Institute for Theoretical Physics (Nordita), Stockholm, Sweden
+    start: # 2026-01-10
+    end: #2026-02-07
+    summary: |
+      Worked on MHD simulation. Participated in the Nordita winter school 2026 ....
+  - role: ICTP Visiting Researcher
+    # org: The Nordic Institute for Theoretical Physics (Nordita), Stockholm, Sweden
+    start: # 2026-01-10
+    end: #2026-02-07
+    summary: |
+      Worked on MHD simulation. Participated in the Nordita winter school 2026 ....
+  - role: YITP Visiting Researcher
+    # org: The Nordic Institute for Theoretical Physics (Nordita), Stockholm, Sweden
+    start: # 2026-01-10
+    end: #2026-02-07
+    summary: |
+      Worked on MHD simulation. Participated in the Nordita winter school 2026 ....
+  - role: Postdoctoral Research Associate
+    # org: The Nordic Institute for Theoretical Physics (Nordita), Stockholm, Sweden
+    start: # 2026-01-10
+    end: #2026-02-07
+    summary: |
+      Worked on MHD simulation. Participated in the Nordita winter school 2026 ....
+  - role: Post Doctoral Researcher 
+    # org: The Nordic Institute for Theoretical Physics (Nordita), Stockholm, Sweden
+    start: # 2026-01-10
+    end: #2026-02-07
+    summary: |
+      Worked on MHD simulation. Participated in the Nordita winter school 2026 ....
+  - role: Full Time Researcher
+    # org: The Nordic Institute for Theoretical Physics (Nordita), Stockholm, Sweden
+    start: # 2026-01-10
+    end: #2026-02-07
+    summary: |
+      Worked on MHD simulation. Participated in the Nordita winter school 2026 ....
 
 skills:
   - name: Technical Skills
