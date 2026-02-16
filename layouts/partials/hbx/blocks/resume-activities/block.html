@@ -1,0 +1,20 @@
+{{ $ := .root }}
+{{ $page := .page }}
+{{ $activities := $page.Params.activities | default (slice "Activity 1" "Activity 2") }}
+
+<div class="flex flex-col items-center gap-4">
+  <h2 class="text-3xl font-bold mb-4">{{ $page.Title | default "Activities" }}</h2>
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-4 w-full">
+    {{ range $index, $activity := $activities }}
+    <div class="p-4 border rounded-lg shadow-sm">
+      <h3 class="text-xl font-semibold">{{ $activity.title | default $activity }}</h3>
+      {{ with $activity.description }}
+        <p class="mt-2 text-gray-600">{{ . }}</p>
+      {{ end }}
+      {{ with $activity.date }}
+        <p class="mt-2 text-sm text-gray-500">{{ . }}</p>
+      {{ end }}
+    </div>
+    {{ end }}
+  </div>
+</div>

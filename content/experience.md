@@ -18,7 +18,7 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
-  - block: resume-skills
+  grep- block: resume-skills
     content:
       title: Skills & Hobbies
       username: me
@@ -32,6 +32,15 @@ sections:
       username: me
   - block: resume-activities
     content:
-      title: Activities
-      username: me
+      title: deeieee
+      activities:
+        - title: "ieyye"
+          description: "jhdjhdf"
+          date: "2024"
+        - title: "djfdhf"
+          description: "jdh"
+          date: "2023"
+    design:
+      spacing:
+        padding: ["20px", "0", "20px", "0"]
 ---
