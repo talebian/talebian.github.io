@@ -1,8 +1,10 @@
 ---
-title: "An example preprint / working paper"
+title: "Models with Non-minimal Coupling in Primordial Universe and Cosmological Observations"
 authors:
 - me
-date: "2019-04-07T00:00:00Z"
+- Hassan Firouzjahi
+- Fereshteh Felegary
+date: "2026-07-14T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -28,12 +30,12 @@ featured: true
 
 hugoblox:
   ids:
-    arxiv: 1512.04133v1
+    arxiv: 2607.12974
 
 links:
 - type: preprint
   provider: arxiv
-  id: 1512.04133v1
+  id: 2607.12974
 - type: code
   url: https://github.com/HugoBlox/hugo-blox-builder
 - type: slides
