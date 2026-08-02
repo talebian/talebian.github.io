@@ -47,7 +47,8 @@ interests:
   # - Computer Vision
   - Human Flourishing
   - Hiking
-  - 
+  - Swimming
+  - AI for Science
   # - Reinforcement Learning
   # - AI Ethics
 
@@ -84,12 +85,12 @@ experience:
       text: View portfolio
       url: /
       icon: hero/arrow-down-tray
-  - role: Head of the Cosmic Magnetism Group
-    org: School of Astronomy, Institute for Research in Fundamental Sciences, Tehran, IRAN
-    start: 2024-05-21 # 1403/03/01
-    summary: |
-      Leading research on Magnetic Fields in the sky. For more detail see [here](https://ipm-cmg.github.io/)
-    # button:
+  # - role: Head of the Cosmic Magnetism Group
+  #   org: School of Astronomy, Institute for Research in Fundamental Sciences, Tehran, IRAN
+  #   start: 2024-05-21 # 1403/03/01
+  #   summary: |
+  #     Leading research on Magnetic Fields in the sky. For more detail see [here](https://ipm-cmg.github.io/)
+  #   # button:
       # text: CM group
       # url: https://ipm-cmg.github.io/
   - role: Nordita Visiting Researcher
@@ -153,23 +154,129 @@ experience:
     summary: |
       Worked on Stochastic Inflation.
 
+# skills:
+#   - name: Technical Skills
+#     items:
+#       - label: Python
+#         level: 5
+#       - label: Machine Learning
+#         level: 5
+#       - label: Mathematica
+#         level: 5
+#   - name: Research & Communication
+#     items:
+#       - label: Academic Writing
+#         level: 5
+#       - label: Conference Presentations
+#         level: 5
+#       - label: Grant Proposals
+#         level: 4
+#   - name: AI
+#     items:
+#       - label: dd
+#         level: 3
+
 skills:
-  - name: Technical Skills
+  - name: "💻 Computational & Numerical Skills"
     items:
-      - label: Python
+      - label: "Python (Scientific Computing)"
         level: 5
-      - label: Machine Learning
+      - label: "Mathematica (incl. xAct)"
         level: 5
-      - label: Mathematica
-        level: 5
-  - name: Research & Communication
-    items:
-      - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
-        level: 5
-      - label: Grant Proposals
+      - label: "Bash/Linux Scripting"
         level: 4
+      - label: "High-Performance Cosmology Codes"
+        level: 4
+        description: "CosmoLattice, Pencil Code, CAMB, CosmoMC"
+      - label: "Custom Code Development"
+        level: 5
+        description: "Cosmological perturbation theory, stochastic inflation, induced GW, PBH abundance"
+      - label: "Machine Learning & Data Science"
+        level: 3
+        description: "TensorFlow/Keras, scikit-learn"
+
+  - name: "📐 Theoretical & Analytical Skills"
+    items:
+      - label: "Early Universe Theory"
+        level: 5
+        description: "Cosmological perturbation theory, stochastic formalism (Ito/Stratonovich)"
+      - label: "Analytical Techniques"
+        level: 4
+        description: "Coupled scalar-gauge field systems, particle production spectra, nonlinear perturbation"
+      - label: "Model Building"
+        level: 5
+        description: "Inflationary and post-inflationary early Universe scenarios"
+
+  - name: "🤝 Collaboration & Communication"
+    items:
+      - label: "Team Science & Leadership"
+        level: 5
+        description: "Leading international research teams (e.g., CosmoVerse consortium)"
+      - label: "Project Management"
+        level: 4
+        description: "Co-supervision of PhD students, workshop organization"
+      - label: "Scientific Communication"
+        level: 5
+        description: "Fluent in English (writing/presentation), native Persian"
+      - label: "Version Control & Workflow"
+        level: 4
+        description: "Git, LaTeX, collaborative project management"
+
+  - name: "🛠️ General & Management Skills"
+    items:
+      - label: "Problem Solving & Critical Thinking"
+        level: 5
+      - label: "Teamwork & Consultation"
+        level: 5
+      - label: "Conference & Workshop Organization"
+        level: 4
+      - label: "Leadership"
+        level: 4
+      - label: "Languages"
+        level: 5
+        description: "Persian (native), English (fluent), Arabic (good)"
+
+  - name: "💻 Computer & Web Skills"
+    items:
+      - label: "Scientific Programming"
+        level: 5
+        description: "Python, Julia, Bash scripting"
+      - label: "Web Development"
+        level: 3
+        description: "HTML, CSS, Jekyll, JavaScript"
+      - label: "Data Analysis"
+        level: 5
+        description: "NumPy, pandas, Matplotlib, seaborn, Excel"
+      - label: "Collaboration Tools"
+        level: 4
+        description: "Git, Trello, Zotero"
+
+  - name: "⚡ Computational Tools"
+    items:
+      - label: "Scientific Software"
+        level: 5
+        description: "Mathematica, xAct (tensor computation), Matlab"
+      - label: "Lattice Simulation"
+        level: 3
+        description: "CosmoLattice (intermediate), Pencil Code (basic)"
+      - label: "Boltzmann Codes"
+        level: 3
+        description: "CAMB (intermediate)"
+      - label: "Monte Carlo Codes"
+        level: 3
+        description: "CosmoMC (intermediate)"
+      - label: "Self-Developed Codes"
+        level: 5
+        description: "PBH formation, Induced GWs, Multi-field inflation, Stochastic simulation"
+
+  - name: "🤖 AI Skills"
+    items:
+      - label: "Chatbot Interaction"
+        level: 4
+        description: "Crafting Effective Prompts"
+      - label: "Machine Learning"
+        level: 3
+        description: "TensorFlow, Scikit-Learn, Keras"
 
 languages:
   - name: Persian
@@ -190,39 +297,116 @@ languages:
     # سطح ۴ = پیشرفته (Advanced)
     # سطح ۵ = مسلط (Native/Fluent)
 
+# awards:
+#   - title: Best Paper Award
+#     awarder: NeurIPS
+#     date: "2022-12-01"
+#     summary: Awarded for groundbreaking work on efficient training of large models.
+#     icon: hero/trophy
+#   - title: Best Paper Award
+#     awarder: NeurIPS
+#     date: "2022-12-01"
+#     summary: Awarded for groundbreaking work on efficient training of large models.
+#     icon: hero/trophy
+#   - title: Best Paper Award
+#     awarder: NeurIPS
+#     date: "2022-12-01"
+#     summary: Awarded for groundbreaking work on efficient training of large models.
+#     icon: hero/trophy
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
+  - title: Young Scientist Grant
+    awarder: Iran's National Elites Foundation (INEF)
+    date: "2025-01-01"
+    summary: Awarded the highly competitive "Young Assistant Professor" fellowship, providing full institutional support (faculty recruitment priority and research funding) to promising early-career researchers in Iran's academic system.
+    icon: hero/globe-alt
+
+  - title: Visiting Fellowship
+    awarder: CERN
+    date: "2025-01-01"
+    summary: Visiting fellowship at the European Organization for Nuclear Research (CERN).
+    icon: hero/globe-alt
+
+  - title: Visiting Fellowship
+    awarder: Bernoulli Center
+    date: "2024-01-01"
+    summary: Visiting fellowship at the Bernoulli Center for fundamental studies.
+    icon: hero/globe-alt
+
+  - title: Visiting Fellowship
+    awarder: ICTP
+    date: "2023-01-01"
+    summary: Visiting fellowship at the Abdus Salam International Centre for Theoretical Physics (ICTP).
+    icon: hero/globe-alt
+
+  - title: Visiting Fellowship
+    awarder: Kyoto University
+    date: "2023-01-01"
+    summary: Visiting fellowship at Kyoto University, Japan.
+    icon: hero/globe-alt
+
+  - title: Visiting Fellowship
+    awarder: YITP
+    date: "2022-01-01"
+    summary: Visiting fellowship at the Yukawa Institute for Theoretical Physics (YITP), Kyoto University.
+    icon: hero/globe-alt
+
+  - title: Junior and Senior Postdoc Position
+    awarder: Institute for Research in Fundamental Sciences (IPM)
+    date: "2020-01-01"
+    summary: Served as Junior and Senior Postdoctoral Researcher at IPM.
+    icon: hero/academic-cap
+
+  - title: Postdoc Grant
+    awarder: Iran Science Elites Federation (ISEF)
+    date: "2022-01-01"
+    summary: Awarded Postdoctoral research grant from Iran Science Elites Federation in 2019, 2021, and 2022.
+    icon: hero/currency-dollar
+
+  - title: Member
+    awarder: Iran's National Elites Foundation (INEF)
+    date: "2018-04-01"
+    summary: Permanent member of Iran's National Elites Foundation since April 2018.
+    icon: hero/star
+
+  - title: First Rank Student in Ph.D.
+    awarder: Ph.D. Program
+    date: "2018-01-01"
+    summary: Ranked first among Ph.D. students in the graduating class of 2018.
     icon: hero/trophy
 
-# activities:
-  # - role: Co-founder & Content Creator
-  #   org: Homaparan Danesh (Scientific-Educational Group)
-  #   start: 2024-01-01 # ???? right after Zanjan's Conference!
-  #   summary: |
-  #     Co-founded a scientific-educational group focused on physics outreach via multimedia production, book localization, and curriculum development for diverse learner levels.
-  #   button:
-  #     text: View activities
-  #     url: https://homaparan.github.io/
-  #     icon: hero/arrow-down-tray
-  # - role: Co-founder & Content Creator
-  #   org: Homaparan Danesh (Scientific-Educational Group)
-  #   start: 2024-01-01 # ???? right after Zanjan's Conference!
-  #   summary: |
-  #     Co-founded a scientific-educational group focused on physics outreach via multimedia production, book localization, and curriculum development for diverse learner levels.
-  #   button:
-  #     text: View activities
-  #     url: https://homaparan.github.io/
-  #     icon: hero/arrow-down-tray
+  - title: Visiting Fellowship
+    awarder: ICTP
+    date: "2015-01-01"
+    summary: Visiting fellowship at the Abdus Salam International Centre for Theoretical Physics (ICTP).
+    icon: hero/globe-alt
+
+  - title: 15th Place - 14th Iran Physics Olympiad
+    awarder: Iran Physics Olympiad Committee
+    date: "2009-01-01"
+    summary: Ranked 15th in the 14th Iran Physics Olympiad.
+    icon: hero/trophy
+
+  - title: Outstanding Exceptional Talented Undergraduate Award
+    awarder: Undergraduate Program
+    date: "2009-01-01"
+    summary: Awarded for outstanding academic performance during B.Sc. studies.
+    icon: hero/academic-cap
+activities:
+  - role: Co-founder & Content Creator
+    org: Homaparan Danesh (Scientific-Educational Group)
+    start: 2024-01-01 # ???? right after Zanjan's Conference!
+    summary: |
+      Co-founded a scientific-educational group focused on physics outreach via multimedia production, book localization, and curriculum development for diverse learner levels.
+    button:
+      text: View activities
+      url: https://homaparan.github.io/
+      icon: hero/arrow-down-tray
+  - role: Co-founder & Content Creator
+    org: Homaparan Danesh (Scientific-Educational Group)
+    start: 2024-01-01 # ???? right after Zanjan's Conference!
+    summary: |
+      Co-founded a scientific-educational group focused on physics outreach via multimedia production, book localization, and curriculum development for diverse learner levels.
+    button:
+      text: View activities
+      url: https://homaparan.github.io/
+      icon: hero/arrow-down-tray
